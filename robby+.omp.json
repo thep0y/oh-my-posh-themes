@@ -68,7 +68,7 @@
         {
           "type": "python",
           "style": "plain",
-          "foreground": "#100e23",
+          "foreground": "#848B95",
           "properties": {
             "prefix": " \uE235 "
           }
